@@ -1,0 +1,20 @@
+{
+  "name": "jsbanco",
+  "version": "1.0.0",
+  "description": "Projeto em POO com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquemj/JS_Banco_POO.git"
+  },
+  "author": "HenriqueMadureira",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/henriquemj/JS_Banco_POO/issues"
+  },
+  "homepage": "https://github.com/henriquemj/JS_Banco_POO#readme"
+}
